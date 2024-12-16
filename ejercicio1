@@ -1,0 +1,9 @@
+const unDulce= "cocosette"; 
+let ranking =10;
+
+console.log("mi dulce fav es", unDulce, "tiene un ranking de", ranking);
+
+ranking =100;
+
+console.log("mi dulce fav es", unDulce, "tiene un ranking de", ranking);
+
